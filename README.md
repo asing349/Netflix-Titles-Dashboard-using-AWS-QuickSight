@@ -37,7 +37,7 @@ The data was imported into QuickSight from S3, with a manifest file helping in s
 
 ## Dashboard Preview
 
-![AWS QuickSight Dashboard](......)
+![AWS QuickSight Dashboard](/images/aws-netflix-dashboard.png)
 
 ## Visualizations and Insights
 
